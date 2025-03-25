@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://laqoome.github.io/vip/sitemap.xml

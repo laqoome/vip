@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LaQoo 低价开通影音会员权益",
+    "description": "",
+    "home_page_url": "https://laqoome.github.io/vip",
+    "feed_url": "https://laqoome.github.io/vip/feed.json",
+    "user_comment": "",
+    "icon": "https://laqoome.github.io/vip/media/website/logo.svg",
+    "author": {
+        "name": "LaQoo"
+    },
+    "items": [
+        {
+            "id": "https://laqoome.github.io/vip/guan-yu.html",
+            "url": "https://laqoome.github.io/vip/guan-yu.html",
+            "title": "哔哩哔哩秒到bilibili会员月卡",
+            "summary": "哔哩哔哩秒到bilibili会员月卡 blbl大会员 B站大会员直冲秒到直充绑定的手机号，不需要验证码，不限制新老，不下载其他软件 一次性到账，充值到账可跟官方查询时间！ 充值时间： 正常充值到账时间为1-30分钟左右 充值方式： 充你手机号 下单后私聊充值手机号(未私聊发送号码以收件人号码充值) 号码一定要对 支持: 手机、电脑、平板&hellip;",
+            "content_html": "<p><strong><span data-spm-anchor-id=\"a21ybx.item.0.i1.4a4c3da6Drw2lI\">哔哩哔哩秒到bilibili会员月卡 blbl大会员 </span></strong></p>\n<p><strong><span data-spm-anchor-id=\"a21ybx.item.0.i1.4a4c3da6Drw2lI\">B站大会员直冲秒到直充绑定的手机号，不需要验证码，不限制新老，不下载其他软件 一次性到账，充值到账可跟官方查询时间！</span></strong></p>\n<p><strong><span data-spm-anchor-id=\"a21ybx.item.0.i1.4a4c3da6Drw2lI\"> 充值时间： 正常充值到账时间为1-30分钟左右 </span><br><span data-spm-anchor-id=\"a21ybx.item.0.i2.4a4c3da6Drw2lI\">充值方式： 充你手机号 下单后私聊充值手机号(未私聊发送号码以收件人号码充值) 号码一定要对</span></strong></p>\n<p><strong style=\"font-family: var(--editor-font-family); font-size: inherit;\"><span data-spm-anchor-id=\"a21ybx.item.0.i2.4a4c3da6Drw2lI\">支持: 手机、电脑、平板</span></strong></p>\n<p><strong><span data-spm-anchor-id=\"a21ybx.item.0.i2.4a4c3da6Drw2lI\">不支持: 不支持电视端，投影仪，具体使用说明权益以官方为准！</span></strong></p>",
+            "image": "https://laqoome.github.io/vip/media/posts/1/d7ae04d2-f818-4f48-a5ac-ba2e6bc960ff.png",
+            "author": {
+                "name": "LaQoo"
+            },
+            "tags": [
+                   "哔哩哔哩",
+                   "会员",
+                   "vip",
+                   "bilibili"
+            ],
+            "date_published": "2025-03-25T19:52:51+08:00",
+            "date_modified": "2025-03-25T21:28:50+08:00"
+        }
+    ]
+}
